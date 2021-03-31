@@ -1,6 +1,7 @@
-# Stochastic-Methods
-- Numerical Programming Algorithms for Stochastic Modeling of Quantitative Finance and Mathematical Economics. 
+# Quanitative Finance
 
-- Algorithms to model concepts of Financial Engineering like Brownian Motion, Black-Scholes Formula, and Monte-Carlo method for various stock option exercises. 
+- These are .ipynb files for Algorithms on Stochastic Modeling of Quantitative Finance and Mathematical Economics.
 
-- Amortization Schedule calculator for Real Estate applications.
+- In Each folder there is a README.md file explaining what the different code files do.
+
+- Some of them are Stock Price Modelling, Creating an Amortization schedule, and analyzing the best fastest method to calculate Cash Flow
